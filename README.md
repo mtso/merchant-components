@@ -12,6 +12,6 @@ npm install --save merchant-components
 
 https://www.npmjs.com/package/merchant-components
 
-## Usage
+## Example Usage
 
 See https://github.com/mtso/wewreck-ui
