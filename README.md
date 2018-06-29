@@ -1,6 +1,6 @@
 # merchant-components
 
-WePay v3 merchant React component toolkit.
+WePay v3 API real-time data React component toolkit.
 
 ## Installation
 
